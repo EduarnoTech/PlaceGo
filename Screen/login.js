@@ -30,7 +30,7 @@ const Login = ({ navigation}) => {
   console.log('LOGIN-->',email.toLowerCase(),password)
   setLoading(true);
   axios.post('https://drifting-console.el.r.appspot.com/api/auth/tutorLogin',{
-    email:email? email: 'shiv7255918@gmail.com',
+    email:email? email: 'sivay7255@gmail.com',
     password:password? password : "Aquarium@12"
   })
   .then(data => {
