@@ -1,0 +1,6 @@
+"Dashboard" --> evertything should update through api
+"history" --> show check only if it is completed
+"upcomingSession"-->time format should be correct
+"payment" --> pan and image is not must , but bank is must
+"setting " --> integrate the api
+"profile" --> we can't change the email and whatsapp

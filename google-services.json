@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "19810196834",
+    "project_id": "urdoer-1fd77",
+    "storage_bucket": "urdoer-1fd77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19810196834:android:1eb391ec9be5962713e03b",
+        "android_client_info": {
+          "package_name": "com.develop.tutorlancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19810196834-1rbp3l7e5p80ckk3sabrfksl3c20btcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1c5sHqsdKve7V6M5Y-FydoY5lTOMTxm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19810196834-1rbp3l7e5p80ckk3sabrfksl3c20btcm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19810196834-fsgibbouu6lan805npltudlflnuro70v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.develop.tutorlancer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
